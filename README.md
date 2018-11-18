@@ -1,4 +1,4 @@
-CS231n Assignment 
+CS231n Assignments 
 ====================
 Started Assignments for CS231n: Convolutional Neural Networks for Visual Recognition Spring 2017.
 
