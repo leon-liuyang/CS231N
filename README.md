@@ -2,7 +2,7 @@ CS231n Assignments
 ====================
 Started Assignments for CS231n: Convolutional Neural Networks for Visual Recognition Spring 2017.
 
-I have just started the course online and this repo contains my solutions to the assignments! Thanks to all the fellas at CS231 Stanford!
+I have just started the course online and this repo contains my solutions to the assignments!
 
 Find course notes and assignments here and be sure to check out video lectrues for Winter 2016 and Spring 2017!
 
